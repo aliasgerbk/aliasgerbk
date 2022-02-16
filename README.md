@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aliasgerbk
+- 👋 Hi, I’m @aliasgerbk from Bitkraft Technologies (www.bitkraft.co.in)
 - 👀 I’m interested in web and mobile development
 - 🌱 I’m currently taking courses on containerisation, ML/AI amongst other things.
 - 💞️ I’m looking to collaborate on projects that involve Web/Mobile technology solutions, ML/AI and Managed Cloud/DevOps
